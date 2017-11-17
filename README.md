@@ -1,3 +1,4 @@
-# invie-github
-Tus mejores guitarras invie libres
-por Andres Cardozo
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
